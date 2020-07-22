@@ -70,6 +70,15 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+  background: url('../images/assorted-color-sequins-1191710.jpg');
+  background-size: cover;
+  min-height: 33vh;
+  padding: 3rem;
+  text-align: center; 
+}
+
+
 .profile-img {
   max-height: 33vh;
   width: auto;
