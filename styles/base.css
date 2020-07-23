@@ -78,7 +78,11 @@ iframe {
   background-size: cover;
   min-height: 33vh;
   padding: 3rem;
-  text-align: center; 
+  text-align: center;
+  border-top-right-radius: 75%;
+  border-bottom-left-radius: 75%;
+  border-top-left-radius: 25%;
+  border-bottom-right-radius: 25%;
 }
 
 .banner-text {
@@ -90,7 +94,7 @@ iframe {
   /*background: ;*/
   color: #670000;
   border: 15px dotted red;
-  margin-top: 100px;
+  margin-top: 150px;
   margin-bottom: 100px;
 }
 
