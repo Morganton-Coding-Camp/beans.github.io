@@ -108,6 +108,7 @@ iframe {
   padding-left: 80px;*/
   border-radius: 50%;
   margin: 30px;
+  text-align: center;
 }
 
 .fave-2 {
@@ -115,6 +116,7 @@ iframe {
   color: #feca1d;
   border-radius: 50%;
   margin: 30px;
+  text-align: center;
 }
 
 .fave-3 {
@@ -124,4 +126,5 @@ iframe {
   border-top-right-radius: 50%;*/
   border-radius: 50%;
   margin: 30px;
+  text-align: center;
 }
