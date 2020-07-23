@@ -89,14 +89,25 @@ iframe {
   width: auto;
   /*background: ;*/
   color: #670000;
-  border:15px dotted red;
+  border: 15px dotted red;
   margin-top: 100px;
   margin-bottom: 100px;
 }
-
 
 .profile-img {
   max-height: 33vh;
   width: auto;
   border-radius: 50%;
+}
+
+.fave-1 {
+  background: #ff1a1a;
+}
+
+.fave-2 {
+  background: #ff0000;
+}
+
+.fave-3 {
+  background: #e60000;
 }
