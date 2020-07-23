@@ -7,6 +7,9 @@ body {
   background: #feca1d;
   color: red;
   font-family: 'Orbitron', sans-serif;
+  margin: 5px;
+  border: 30px dotted red;
+  padding: 5px;
 }
 
 h1,
