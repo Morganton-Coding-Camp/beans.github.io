@@ -115,6 +115,12 @@ iframe {
   text-align: center;
 }
 
+.fave-1 ul {
+  display: inline-block;
+  padding: 0px;
+  text-align: left;
+}
+
 .fave-2 {
   background: #ff0000;
   color: #feca1d;
@@ -131,10 +137,4 @@ iframe {
   border-radius: 50%;
   margin: 30px;
   text-align: center;
-}
-
-.fave-3 ul {
-  display: inline-block;
-  padding: 0px;
-  text-align: left;
 }
