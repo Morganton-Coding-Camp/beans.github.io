@@ -138,3 +138,29 @@ iframe {
   margin: 30px;
   text-align: center;
 }
+
+.footer {
+  padding: 2rem; 
+  margin: 5rem;
+  text-align: center;
+}
+
+.btn {
+  padding: 2rem; 
+  background: yellow;
+  color: red;
+  border-bottom-right-radius: 50%;
+  border-top-right-radius: 50%;
+  font-size: 20px;
+  letter-spacing: 4px;
+  text-decoration: overline;
+  border: 5px dotted red;
+  transition: all .5s ease;
+}
+
+
+.btn:hover {
+  padding: 10rem; 
+  border: 10px dotted red;
+}
+
