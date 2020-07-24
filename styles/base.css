@@ -161,6 +161,8 @@ iframe {
 
 .btn:hover {
   padding: 10rem; 
-  border: 10px dotted red;
+  border: 19px dotted red;
+  font-size: 30px;
+  letter-spacing: 8px;
 }
 
