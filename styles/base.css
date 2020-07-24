@@ -150,7 +150,7 @@ iframe {
   background: yellow;
   color: red;
   border-bottom-right-radius: 50%;
-  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
   font-size: 20px;
   letter-spacing: 4px;
   text-decoration: overline;
