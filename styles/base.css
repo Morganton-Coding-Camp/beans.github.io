@@ -162,7 +162,10 @@ iframe {
 .btn:hover {
   padding: 10rem; 
   border: 19px dotted red;
-  font-size: 30px;
   letter-spacing: 8px;
+  border-bottom-right-radius: 575%;
+  border-top-right-radius: 25%;
+  border-bottom-left-radius: 25%;
+  border-top-left-radius: 75%;
 }
 
