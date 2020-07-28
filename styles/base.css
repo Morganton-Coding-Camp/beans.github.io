@@ -73,6 +73,10 @@ iframe {
   padding: 1rem;
 }
 
+.max-50 {
+  max-width: 50vw;
+}
+
 .banner {
   background: url('../images/assorted-color-sequins-1191710.jpg');
   background-size: cover;
@@ -137,6 +141,11 @@ iframe {
   border-radius: 50%;
   margin: 30px;
   text-align: center;
+}
+
+.gif {
+  width: 100%;
+  margin-bottom: 5px;
 }
 
 .footer {
